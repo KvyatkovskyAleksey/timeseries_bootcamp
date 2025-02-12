@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "timeseries-bootcamp"
+version = "0.1.0"
+description = "Tutorial timeseries predictions"
+authors = ["aleksey <kvyatkovsky89@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
